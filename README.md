@@ -1,2 +1,3 @@
 # covid19_
-This site displays a graph showing the vaccination status of covid19 in Japan.
+コロナのワクチン接種状況を可視化して表示するサイト（製作中）
+5/23 開始
